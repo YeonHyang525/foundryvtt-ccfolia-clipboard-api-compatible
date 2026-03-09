@@ -17,5 +17,8 @@
   ],
   "systems": [
     "CoC 7th"
-  ]
+  ],
+  "url": "https://github.com/YuGyeong525/foundryvtt-ccfolia-clipboard-api-compatible",
+  "manifest": "https://raw.githubusercontent.com/YuGyeong525/foundryvtt-ccfolia-clipboard-api-compatible/refs/heads/main/module.json",
+  "download": "https://github.com/YuGyeong525/foundryvtt-ccfolia-clipboard-api-compatible/archive/main.zip"
 }
